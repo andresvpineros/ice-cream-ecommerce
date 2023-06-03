@@ -4,9 +4,9 @@ import { I18nextProvider } from 'react-i18next'
 import { afterEach } from 'vitest'
 import i18n from './i18nextConfiguration'
 
-afterEach(() => {
-  cleanup()
-})
+// afterEach(() => {
+//   cleanup()
+// })
 
 function customRender(ui: React.ReactElement, options = {}) {
   return render(ui, {
