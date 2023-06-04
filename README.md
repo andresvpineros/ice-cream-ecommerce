@@ -1,7 +1,7 @@
 # ice-cream-ecommerce
 ## Tech stack:
 
-### Frontend:
+### Client:
  - React
  - Vite
  - Vitest
